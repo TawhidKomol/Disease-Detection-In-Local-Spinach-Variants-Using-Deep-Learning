@@ -9,20 +9,20 @@ Disease Detection In Local Spinach Variants Using Multiple layer Deep CNN, ResNe
 
 Visualizing Dataset
 
-![App Screenshot](https://github.com/TawhidKomol/Mango-Maturity-Recognition-Using-Deep-Learning/blob/main/img/1.JPG?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/Disease-Detection-In-Local-Spinach-Variants-Using-Deep-Learning/blob/main/img/1.png?raw=true)
 
 Accuracy Comparison Plot Between Proposed And Transfer Learning Models
 
-![App Screenshot](https://github.com/TawhidKomol/Mango-Maturity-Recognition-Using-Deep-Learning/blob/main/img/2.JPG?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/Disease-Detection-In-Local-Spinach-Variants-Using-Deep-Learning/blob/main/img/2.png?raw=true)
 
 First image to predict
 
-![App Screenshot](https://github.com/TawhidKomol/Mango-Maturity-Recognition-Using-Deep-Learning/blob/main/img/3.JPG?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/Disease-Detection-In-Local-Spinach-Variants-Using-Deep-Learning/blob/main/img/3.png?raw=true)
 
 
 Inference on few sample images
 
-![App Screenshot](https://github.com/TawhidKomol/Mango-Maturity-Recognition-Using-Deep-Learning/blob/main/img/3.JPG?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/Disease-Detection-In-Local-Spinach-Variants-Using-Deep-Learning/blob/main/img/4.png?raw=true)
 
 
 ###  My Profile Links
